@@ -2,7 +2,7 @@ import argparse
 
 def search(args):
     args = args.split()
-    with open('src/.emoji.txt', 'r') as f:
+    with open('.src/emoji.txt', 'r') as f:
         for line in f:
             emoji = line.split()[0]
             if emoji in args:
