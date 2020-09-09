@@ -30,10 +30,10 @@ _thats will be funny & amazing :fire:_
 
 |step |                         TODO                                   | state |
 |-----|----------------------------------------------------------------|-------|
-| 1st | translate some word in sentence to emoji (demo)                |  [x]  |
-| 2nd | translate some emoji to word in sentence (demo)                |  [ ]  |
-| 3rd | translate full text to emoji (building & using some algorithm) |  [ ]  |
-| 4th |  ..                                                            |  [ ]  |
+| 1st | translate some word in sentence to emoji (demo)                |- [x]  |
+| 2nd | translate some emoji to word in sentence (demo)                |- [ ]  |
+| 3rd | translate full text to emoji (building & using some algorithm) |- [ ]  |
+| 4th |  ..                                                            |- [ ]  |
 
 ## :fire: Features 
 
