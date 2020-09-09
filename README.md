@@ -4,6 +4,14 @@ __so i think if i can translate any sentence to emojis i can make many poeple ar
 
 _thats will be funny & amazing :fire:_
 
+## :pushpin: How to start
+
+```
+    git clone https://github.com/xreaad/EMOT.git
+    cd EMOT
+    python3 translate.py --help
+```
+
 ## :dart: Structure
 
 ```shell
