@@ -1,7 +1,6 @@
 # EMOT (EMOJI TRANSLATE)
-It's a project to translate sentence to emoji (fact : i use many emoji in my discussions :blush:)
-
-so i think if i can translate any sentence to emojis i can make many poeple around the world be like me :grin: 
+__It's a project to translate sentence to emoji (fact : i use many emoji in my discussions :blush:)__ <br>
+__so i think if i can translate any sentence to emojis i can make many poeple around the world be like me :grin:__ <br>
 
 _thats will be funny & amazing :fire:_
 
@@ -29,5 +28,5 @@ _thats will be funny & amazing :fire:_
 
 ## :fire: Features 
 
-using the argparse module (python) to input the sentence as an argument and dispaly it after translate 
+using the argparse module (python) to input the sentence as an argument and dispaly it after translate <br>
 _there is many features stay tuned_
