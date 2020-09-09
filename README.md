@@ -21,14 +21,13 @@ _thats will be funny & amazing :fire:_
 
 ## :clipboard: TO DO
 
-| 1st | 2nd |
-|-----|-----|
-| ..  |  .. |
-|..   |  .. |
-| ..  |  .. |
-
-## :mag: To contrubiute
-
+| 1st | translate some word in sentence to emoji (demo)                |
+|-----|----------------------------------------------------------------|
+| 2nd | translate some emoji to word in sentence (demo)                |
+| 3rd | translate full text to emoji (building & using some algorithm) |
+| 4th |  ..                                                            |
 
 ## :fire: Features 
 
+using the argparse module (python) to input the sentence as an argument and dispaly it after translate 
+_there is many features stay tuned_
