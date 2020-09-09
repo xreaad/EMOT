@@ -29,4 +29,4 @@ _thats will be funny & amazing :fire:_
 ## :fire: Features 
 
 using the argparse module (python) to input the sentence as an argument and dispaly it after translate <br>
-_there is many features stay tuned_
+__there is many features stay tuned__
