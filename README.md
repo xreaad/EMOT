@@ -7,28 +7,26 @@ so i think if i can translate any sentence to emojis i can make many poeple arou
 
 ## :dart: Structure
 
-`  EMOT
-    |__src
-    |   |__.emoji.txt
-    |   |__ ...
-    |
-    |__translate.py
-    |__ ...
-    |
-    |...
-`
+```shell
+    |___EMOT
+            |__src
+            |   |__.emoji.txt
+            |   |__ ...
+            |
+            |__translate.py
+            |__ ...
+            |
+            |...
+```
 
 ## :clipboard: TO DO
 
-_____________________________________________________________
+-------------------------------------------------------------
 | 1st | translate some words in the sentce to emoji (demo)   |
-_____________________________________________________________
 | 2nd | translate emoji to text (demo)                       |
-_____________________________________________________________
 | 3rd | trnaslate text to emoji (building some algorithm AI) |
-_____________________________________________________________
 | 4th | trnaslate emoji to text (building some algorithm AI) |
-_____________________________________________________________
+--------------------------------------------------------------
 
 ## :bulp: To contrubiute
 
