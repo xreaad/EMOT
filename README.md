@@ -3,7 +3,7 @@ It's a project to translate sentence to emoji (fact : i use many emoji in my dis
 
 so i think if i can translate any sentence to emojis i can make many poeple around the world be like me :grin: 
 
-> thats will be funny & amazing :fire:
+_thats will be funny & amazing :fire:_
 
 ## :dart: Structure
 
@@ -21,14 +21,13 @@ so i think if i can translate any sentence to emojis i can make many poeple arou
 
 ## :clipboard: TO DO
 
-| 1st | translate some words in the sentce to emoji (demo)   |
-|------------------------------------------------------------|
-| 2nd | translate emoji to text (demo)                       |
-| 3rd | trnaslate text to emoji (building some algorithm AI) |
-| 4th | trnaslate emoji to text (building some algorithm AI) |
+| 1st | 2nd |
+|-----|-----|
+| ..  |  .. |
+|..   |  .. |
+| ..  |  .. |
 
-
-## :bulp: To contrubiute
+## :mag: To contrubiute
 
 
 ## :fire: Features 
