@@ -28,12 +28,12 @@ _thats will be funny & amazing :fire:_
 
 ## :clipboard: TO DO
 
-|step |                         TODO                                         |
-|-----|----------------------------------------------------------------------|
-| 1st | - [x] translate some word in sentence to emoji (demo)                |
-| 2nd | - [ ] translate some emoji to word in sentence (demo)                |
-| 3rd | - [ ] translate full text to emoji (building & using some algorithm) |
-| 4th | - [ ] ..                                                             |
+|step |                         TODO                                   |
+|-----|----------------------------------------------------------------|
+| 1st | translate some word in sentence to emoji (demo)                |
+| 2nd | translate some emoji to word in sentence (demo)                |
+| 3rd | translate full text to emoji (building & using some algorithm) |
+| 4th |  ..                                                            |
 
 ## :fire: Features 
 
