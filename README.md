@@ -8,14 +8,14 @@ _thats will be funny & amazing :fire:_
 
 ```shell
     |___EMOT
-            |__src
-            |   |__.emoji.txt
-            |   |__ ...
-            |
-            |__translate.py
-            |__ ...
-            |
-            |...
+        |__src
+        |  |__.emoji.txt
+        |  |__ ...
+        |
+        |__translate.py
+        |__ ...
+        |
+        |...
 ```
 
 ## :clipboard: TO DO
