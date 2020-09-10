@@ -35,6 +35,11 @@ _thats will be funny & amazing :fire:_
 | 3rd | translate full text to emoji (building & using some algorithm) |
 | 4th |  ..                                                            |
 
+- [x] 1st
+- [ ] 2nd
+- [ ] 3rd
+- [ ] 4th
+
 ## :fire: Features 
 
 using the argparse module (python) to input the sentence as an argument and dispaly it after translate <br>
