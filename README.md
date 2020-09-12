@@ -15,7 +15,7 @@ _thats will be funny & amazing :fire:_
 ## :dart: Structure
 
 ```shell
-    |___EMOT
+    |__EMOT
         |__src
         |  |__.emoji.txt
         |  |__ ...
