@@ -2,7 +2,7 @@ import argparse
 
 def search(args):
     args = args.lower()
-    arguments = args.lower().split()
+    arguments = args.split()
     with open('.src/activity', 'r') as f:
         for line in f:
             emoji, name = line.split()[0].lower(), line.split()[1].lower()
