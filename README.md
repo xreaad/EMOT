@@ -1,4 +1,4 @@
-# EMOT (EMOJI TRANSLATE) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+# EMOT (EMOJI TRANSLATE) [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/xreaad/EMOT/blob/master/LICENSE)
 
 __It's a project to translate sentence to emoji (fact : i use many emoji in my discussions :blush:)__ <br>
 __so i think if i can translate any sentence to emojis i can make many poeple around the world be like me :grin:__ <br>
