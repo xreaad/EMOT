@@ -3,9 +3,9 @@ import argparse
 def search(args):
     args = args.lower()
     arguments = args.split()
-    with open('.src/activity', 'r') as f:
+    with open('.src/emosnippet', 'r') as f:
         for line in f:
-            emoji, name = line.split()[0].lower(), line.split()[1].lower()
+            emoji, name = line.split()[0].lower(), line.split()[1].lower()           
             if name in arguments:
                 for word in arguments:
                     if word == name:
