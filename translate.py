@@ -18,6 +18,5 @@ def main():
     args = parser.parse_args()
     search(args.sentence)
 
-
 if __name__ == '__main__':
     main()
