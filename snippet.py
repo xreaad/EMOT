@@ -7,12 +7,6 @@ def search(args):
         for line in f:
             line = line.lower()
             emoji, names = line.split()[0].lower(), line.split()[1:]
-            for name in names:
-                if name in arguments:
-                    for word in arguments:
-                        if word == name:
-                            args = args.replace(word, emoji)
-
             
     print(args)
 
