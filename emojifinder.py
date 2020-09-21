@@ -10,6 +10,9 @@ def finder(url):
     re = requests.get(url).text
     soup = BeautifulSoup(url, 'html.parser')
 
+def dd():
+    pass
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('url', help='url', type=str)
